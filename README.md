@@ -1,11 +1,14 @@
 ****Sistema de Gestión de Vehículos Inteligentes****
+
 **Descripción del Proyecto**
 
 Este proyecto consiste en el diseño e implementación de un sistema orientado a objetos para gestionar diferentes tipos de vehículos dentro de una ciudad inteligente. Se busca representar la realidad mediante modelos abstractos, destacando las características esenciales de cada tipo de transporte y su comportamiento.
 
+
 **Objetivo**
 
 Aplicar el principio de abstracción utilizando conceptos de Programación Orientada a Objetos como clases abstractas, interfaces, herencia, composición, agregación y polimorfismo, con el fin de construir un sistema flexible y reutilizable.
+
 
 **Estructura del Sistema**
 
@@ -23,6 +26,7 @@ BicicletaDeCarga representa un vehículo ecológico con capacidad de transporte 
 
 Clase CentroControl:
 Se encarga de gestionar una colección de vehículos, permitiendo registrar unidades y monitorear el comportamiento de toda la flota.
+
 
 **Relaciones del Sistema**
 
