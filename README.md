@@ -1,17 +1,17 @@
-**Sistema de Gestión de Vehículos Inteligentes**
-**Descripción del Proyecto**
+## **Sistema de Gestión de Vehículos Inteligentes**
+## **Descripción del Proyecto**
 
 Este proyecto consiste en el desarrollo de un sistema orientado a objetos que permite gestionar diferentes tipos de vehículos dentro de una ciudad inteligente. Se modelan tanto vehículos tradicionales como unidades con capacidades tecnológicas, aplicando el principio de abstracción para simplificar la representación del sistema.
 
 El sistema permite registrar vehículos y monitorear su comportamiento de manera centralizada.
 
 
-**Objetivo**
+## **Objetivo**
 
 Aplicar conceptos fundamentales de la Programación Orientada a Objetos, tales como clases abstractas, interfaces, herencia, composición, agregación y polimorfismo, con el fin de construir una solución flexible, organizada y reutilizable.
 
 
-**Estructura del Sistema**
+## **Estructura del Sistema**
 
 Clase abstracta Vehiculo:
 Define la base común para todos los vehículos. Contiene el atributo id y un método abstracto patronMovimiento(), el cual debe ser implementado por cada subclase para definir su forma de desplazamiento.
@@ -39,7 +39,7 @@ Clase CentroControl:
 Se encarga de gestionar la flota de vehículos mediante una colección ArrayList<Vehiculo>. Permite registrar nuevas unidades y monitorear el comportamiento de todos los vehículos.
 
 
-**Relaciones del Sistema**
+## **Relaciones del Sistema**
 
 Herencia:
 Las clases BicicletaDeCarga, CamionAutonomo y DronTransporte heredan de la clase abstracta Vehiculo.
