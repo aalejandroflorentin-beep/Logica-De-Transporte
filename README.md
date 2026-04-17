@@ -6,11 +6,6 @@ Este proyecto consiste en el desarrollo de un sistema orientado a objetos que pe
 El sistema permite registrar vehículos y monitorear su comportamiento de manera centralizada.
 
 
-## **Objetivo**
-
-Aplicar conceptos fundamentales de la Programación Orientada a Objetos, tales como clases abstractas, interfaces, herencia, composición, agregación y polimorfismo, con el fin de construir una solución flexible, organizada y reutilizable.
-
-
 ## **Estructura del Sistema**
 
 Clase abstracta Vehiculo:
