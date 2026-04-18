@@ -1,4 +1,4 @@
-## **Sistema de Gestión de Vehículos Inteligentes**
+## **Lógica De Transporte**
 ## **Descripción del Proyecto**
 
 Este proyecto consiste en el desarrollo de un sistema orientado a objetos que permite gestionar diferentes tipos de vehículos dentro de una ciudad inteligente. Se modelan tanto vehículos tradicionales como unidades con capacidades tecnológicas, aplicando el principio de abstracción para simplificar la representación del sistema.
